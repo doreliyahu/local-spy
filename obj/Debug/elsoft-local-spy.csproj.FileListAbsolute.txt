@@ -1,0 +1,7 @@
+C:\Users\doreliyahu\source\repos\elsoft-local-spy\elsoft-local-spy\bin\Debug\elsoft-local-spy.exe.config
+C:\Users\doreliyahu\source\repos\elsoft-local-spy\elsoft-local-spy\bin\Debug\elsoft-local-spy.exe
+C:\Users\doreliyahu\source\repos\elsoft-local-spy\elsoft-local-spy\bin\Debug\elsoft-local-spy.pdb
+C:\Users\doreliyahu\source\repos\elsoft-local-spy\elsoft-local-spy\obj\Debug\elsoft-local-spy.csprojResolveAssemblyReference.cache
+C:\Users\doreliyahu\source\repos\elsoft-local-spy\elsoft-local-spy\obj\Debug\elsoft-local-spy.csproj.CoreCompileInputs.cache
+C:\Users\doreliyahu\source\repos\elsoft-local-spy\elsoft-local-spy\obj\Debug\elsoft-local-spy.exe
+C:\Users\doreliyahu\source\repos\elsoft-local-spy\elsoft-local-spy\obj\Debug\elsoft-local-spy.pdb
